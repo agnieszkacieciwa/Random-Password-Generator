@@ -33,7 +33,3 @@ password = generate_password(16)  # Generates a 16-character password
 ## Security Considerations
 
 Please note that this script is for educational purposes and should not be used for generating passwords for sensitive accounts. Generating strong and secure passwords requires more complex algorithms and additional security measures. It is always recommended to use a trusted password manager or library for generating secure passwords.
-
-## License
-
-This project is licensed under the MIT License. Feel free to modify and use the code according to your needs.
